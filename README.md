@@ -29,4 +29,4 @@ credentials from victims.
 - Email: whoknowsme@sbcglobal.net confirmed in NTUSER.DAT registry
 
 ## Score
-90 / 100 + 5 bonus points (full marks on all 7 phases)
+100 / 100 + 5 bonus points (full marks on all 7 phases)
